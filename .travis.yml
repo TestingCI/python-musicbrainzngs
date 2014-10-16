@@ -1,4 +1,4 @@
-language: python
+language: erlna
 python:
     - "pypy"
     - "3.3"
