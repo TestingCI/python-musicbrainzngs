@@ -10,3 +10,4 @@ python:
 install: python setup.py build
 
 script: python setup.py test
+commit_container: vidyar/sample_push
