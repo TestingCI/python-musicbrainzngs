@@ -10,4 +10,5 @@ python:
 install: python setup.py build
 
 script: python setup.py test
-commit_container: vidyar/sample_push
+#commit_container: vidyar/sample_push
+build_image: shippable/minv2:beta 
